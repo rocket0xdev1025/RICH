@@ -59,7 +59,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
   // Add playful log
   console.log(
-    "%c🌟 Chibi Revolution Initialized! 🌟",
+    "%c🌟 $RICH Initialized! 🌟",
     "color: #FDB813; font-size: 20px; font-weight: bold; background: #4B3621; padding: 10px; border-radius: 10px;"
   );
 
